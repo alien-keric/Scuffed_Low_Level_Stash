@@ -2,7 +2,7 @@
 
 
 
-### **Follow me:** [Twitter - @0xRoman1](https://twitter.com/0xroman1)
+### **Follow me:** [Twitter - @AlienKeric](https://twitter.com/AlienKeric)
 
 ***Scuffed Stash for everything Binary Exploitation and Reverse Engineering related***
 
